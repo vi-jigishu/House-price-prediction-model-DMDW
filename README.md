@@ -1,4 +1,4 @@
-# House Prices Prediction Model(Predictive modelling)
+# House Prices Prediction Model(Predictive modelling)  🏡 💸
 
 ## (Note: All the data visualization graphs are eaily accessible in the .ipynb file along with the code. Thank you.)  🏁 📊 📈 
 
@@ -49,5 +49,5 @@ Through this project, I’ve gained a deeper understanding of various machine le
 
 
 
-# All the code and README file has been written by Priyanshu Bhusan, Roll.no.22052327 for submission of DMDW project, CSE37.
+# All the code and README file has been written by Priyanshu Bhusan, Roll.no.22052327 for submission of DMDW project, DMDW-37.
 
