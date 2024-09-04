@@ -2,6 +2,9 @@
 
 ### (Note: All the data visualization graphs are eaily accessible in the .ipynb file along with the code. Thank you.)
 
+
+
+
 ## Motivation
 
 The housing market is one of the most critical sectors in the global economy, influencing everything from personal wealth to national economic policies. Accurate prediction of house prices can benefit various stakeholders, including buyers, sellers, real estate agents, and financial institutions. This project aims to build and evaluate different machine learning models to predict house prices based on a variety of features like lot size, year built, and the number of rooms. By doing so, we hope to provide insights into the most important factors influencing house prices and create a robust model that can make reliable predictions.
