@@ -1,7 +1,6 @@
 # House Prices Prediction Model(Predictive modelling)
 
-### (Note: All the data visualization graphs are eaily accessible in the .ipynb file along with the code. Thank you.)  🏁 🎌
-
+## (Note: All the data visualization graphs are eaily accessible in the .ipynb file along with the code. Thank you.)  🏁 📊 📈 
 
 
 
